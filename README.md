@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/r6kwR7whGFUAAAAi/wallaby-quokka.gif" width="100"/>
+  <img src="https://github.com/PabSaez/PabSaez/blob/main/quokkaEmpanadasSmile-no_bg.png" width="300"/>
 </div>
 
 <div id="badges" align="center">
